@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/dd-boy22/advice-generator-app.git)
+- Live Site URL: [Add live site URL here](https://advice-generator-app-iota-lemon.vercel.app/)
 
 ## My process
 
@@ -87,8 +87,9 @@ Using AI as a learning resource helped me understand the reasoning behind my cod
 
 ## Author
 
-- Frontend Mentor - [@dd-boy22](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - [@dd-boy22](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@dd-boy22](https://www.frontendmentor.io/profile/dd-boy22)
+- GitHub - [@dd-boy22](https://github.com/dd-boy22
+)
 
 
 ## Acknowledgments
